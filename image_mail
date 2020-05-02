@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>picture to mail</title>
+  </head>
+  <body>
+    <h2>Click on the image to go to email</h2>
+    <a href="mailto:getrachitsonthalia@gmail.com"><img height="300" width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/150px-Gmail_Icon.svg.png" alt="it is a email picture"> </a>
+    <br>
+    <img src="" alt="This is the mail logo">
+    <br>
+    <br>
+    <br>
+    <a href="mailto:getrachitsonthalia@gmail.com"><img height="300" width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/150px-Gmail_Icon.svg.png" alt="alternate link to mail"> </a>
+  </body>
+</html>
